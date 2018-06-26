@@ -1,0 +1,43 @@
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\Bot Application.dll.config
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\Bot Application.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\Bot Application.pdb
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\Autofac.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\Chronic.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\Microsoft.Bot.Builder.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\Microsoft.Bot.Connector.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\Newtonsoft.Json.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\System.Net.Http.Formatting.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\System.Web.Http.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\System.Web.Http.WebHost.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\Autofac.xml
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\Microsoft.Bot.Builder.xml
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\Microsoft.Bot.Connector.xml
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\Newtonsoft.Json.xml
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\System.Net.Http.Formatting.xml
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\System.Web.Http.xml
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\System.Web.Http.WebHost.xml
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\obj\Debug\RestaurantDemo.csprojResolveAssemblyReference.cache
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\obj\Debug\RestaurantDemo.csproj.CoreCompileInputs.cache
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\obj\Debug\Bot Application.dll
+C:\Users\HagerDev-NB\Downloads\BotDemo-master\BotDemo-master\HerocardFormflow\RestaurantDemo\obj\Debug\Bot Application.pdb
